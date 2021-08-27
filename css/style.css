@@ -1,0 +1,73 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    text-transform: capitalize;
+    border: 2px solid grey;
+    padding-bottom: 2px;
+}
+
+h4 {
+    font-size: 20px;
+    max-width: 200px;
+    background-color: black;
+    border: 2px solid grey;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+h3 {
+    color: white;
+    background-color: black;
+    border: 2px solid grey;
+    text-align: center;
+    max-width: 200px;
+    font-size: 25px;
+}
+
+.how {
+    max-width: 300px;
+}
+
+ol {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+strong {
+    color: darkslategrey;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+em {
+    color: dimgrey;
+}
+
+abbr {
+    color: darkslategrey;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
